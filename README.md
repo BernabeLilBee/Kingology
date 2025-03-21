@@ -1,3 +1,12 @@
+Kingology is faith, grit, and class—the mindset of a king rising to lead with purpose, love, and legacy.
+
+
+
+
+# The Cross0ver 
+
+# Bernabe Olvera 
+
 # Cross0ver & Cross0ver 7
 
 **Luxury Made Accessible. Style Without Compromise.**
@@ -47,3 +56,21 @@ Welcome to the official repository for **Cross0ver**, a next-generation e-commer
    ```bash
    npm install
    npm run dev
+
+___
+
+License
+
+© 2025 Cross0ver. All rights reserved.
+
+This project is licensed under MIT License
+
+
+---
+
+# Contributing
+
+We welcome contributions that align with the vision of accessible luxury and smart design. Please create a branch, submit a pull request, or open an issue with feature ideas or bug reports.
+
+# Live different. Dress better. Pay smarter.
+Welcome to Cross0ver.
