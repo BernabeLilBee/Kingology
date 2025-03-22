@@ -7,17 +7,17 @@ Kingology is faith, grit, and class—the mindset of a king rising to lead with 
 
 # Bernabe Olvera 
 
-# Cross0ver & Cross0ver 7
+# The Cross0ver & The Cross0ver 7
 
 **Luxury Made Accessible. Style Without Compromise.**
 
-Welcome to the official repository for **Cross0ver**, a next-generation e-commerce platform that blends **limited-edition fashion, functional design, and smart pricing**—all powered by a modern, scalable architecture.
+Welcome to the official repository for **The Cross0ver**, a next-generation e-commerce platform that blends **limited-edition fashion, functional design, and smart pricing**—all powered by a modern, scalable architecture.
 
 ---
 
 ## Project Overview
 
-**Cross0ver & Cross0ver 7** deliver affordable luxury through curated product drops, an immersive online experience, and accessible designer-level quality. This platform supports:
+** The Cross0ver & The Cross0ver 7** deliver affordable luxury through curated product drops, an immersive online experience, and accessible designer-level quality. This platform supports:
 
 - Secure, fast, and responsive e-commerce
 - Drop shipping with real-time inventory sync
@@ -61,7 +61,7 @@ ___
 
 License
 
-© 2025 Cross0ver. All rights reserved.
+© 2025 The Cross0ver. All rights reserved.
 
 This project is licensed under MIT License
 
